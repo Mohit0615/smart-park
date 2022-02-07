@@ -1,0 +1,141 @@
+.textField-cls {
+  margin: 0.5em !important;
+  width: 8cm;
+}
+
+.fieldset-cls {
+  margin: 2em 60em 20em 5em !important;
+  text-align: left;
+}
+
+.form-inner-cls {
+  padding: 0em 5em 3em 3em;
+}
+
+.btn-cls {
+  margin: 0 0 0 3em !important;
+}
+
+.selectLabel-cls {
+  margin: 1em 0 0 0.5em !important;
+}
+
+.select-cls {
+  margin: 0.5em !important;
+  width: 10em;
+}
+
+.app-cls {
+  width: 50% !important;
+  background-color: lightblue !important;
+}
+
+.userView-back-cls {
+  height: 90%;
+  width: 100%;
+  /* background-color: lightblue; */
+  background-image: url("Main@2x.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+}
+
+.userView-box-cls {
+  /* width: 60em; */
+  width: 50%;
+  height: 75%;
+  /* height: 30em; */
+  position: relative;
+  margin: 5% auto;
+  background: whitesmoke;
+  border: 1px solid;
+  overflow: auto;
+  opacity: 0.7;
+  border-radius: 25px;
+}
+
+.tabContent-main-cls {
+  text-align: center;
+  margin: 1em;
+  padding: 1em;
+  height: auto;
+}
+
+.bookSpace-location-cls {
+  position: relative;
+  top: 10px;
+  left: -10px;
+  right: 10px;
+}
+
+.bookSpace-space-cls {
+  margin: 0% 3%;
+}
+
+.bookSpace-btn-cls {
+  margin: 1em !important;
+  background-color: black !important;
+  color: white !important;
+}
+
+.successDialog-cls {
+  background-color: black !important;
+  opacity: 0.9 !important;
+  color: white !important;
+}
+
+.agentWindow-cls {
+  width: 1154px !important;
+  height: 512px !important;
+  position: relative;
+  top: 75px;
+  border: 2px solid white;
+  border-radius: 25px;
+}
+
+/* .successWindow-cls {
+  border-radius: 25px !important;
+} */
+
+.MuiDialog-Paper {
+  margin: 32px;
+  position: relative;
+  overflow-y: auto;
+  border-radius: 25px !important;
+}
+
+.cbLabel-cls {
+  text-align: left !important;
+  position: absolute;
+  left: 15%;
+  display: inline-block;
+  color: black !important;
+}
+
+.cbValue-cls {
+  text-align: left !important;
+  position: absolute;
+  left: 35%;
+  display: inline-block;
+  color: black !important;
+}
+
+.cbQRCode-cls {
+  height: 200px !important;
+  width: 200px !important;
+}
+
+.cbRightPanel-cls {
+  width: 40%;
+  float: right;
+}
+
+.cbLeftPanel-cls {
+  width: 60%;
+  float: left;
+}
+
+.cbFields-cls {
+  padding: 20px;
+}

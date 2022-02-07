@@ -1,0 +1,64 @@
+.header-container-cls {
+  width: 100%;
+  height: 5em;
+  color: black;
+  padding: 0 !important;
+  background-color: lightblue;
+  position: relative;
+}
+
+.header-title-cls {
+  bottom: 0.36em;
+  top: 0.5em;
+  position: absolute;
+  left: 40%;
+  padding: 0 0 0px 1.2em;
+  letter-spacing: 0.36px;
+  font-size: 2em !important;
+  //font: normal 1.19em $font-knockout !important;
+}
+
+.park-lot-cls {
+  width: 8em;
+  height: 4em;
+  background-color: white;
+  margin: 3em 5em 2em 1em;
+}
+
+.active-park-lot-cls {
+  width: 8em;
+  height: 4em;
+  background-color: green;
+  margin: 3em 5em 2em 1em;
+}
+
+.park-main-cls {
+  margin: 5em 10em 0 10em;
+  border: 0.1em solid;
+  border-color: black !important;
+}
+
+.app {
+  height: 100%;
+  display: flex;
+  color: white;
+}
+
+.appside-cls {
+  width: 50% !important;
+  background-color: blue !important;
+}
+
+.app-cls {
+  width: 50% !important;
+  background-color: lightblue !important;
+  padding: 25px 40px;
+  overflow: auto;
+}
+
+.successWindow-cls {
+  /* border-radius: 25px !important; */
+  .MuiPaper-rounded {
+    border-radius: 25px !important;
+  }
+}
